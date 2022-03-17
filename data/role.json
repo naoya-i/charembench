@@ -1,0 +1,5329 @@
+{
+  "task": "m_choice",
+  "data": [
+    {
+      "char_id": "1473_4",
+      "answer": "landlord",
+      "candidates": [
+        "gentleman",
+        "landlord",
+        "daughter",
+        "heiress"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1473_0",
+      "answer": "son",
+      "candidates": [
+        "agent",
+        "gentleman",
+        "son",
+        "noblewoman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1473_1",
+      "answer": "cousin",
+      "candidates": [
+        "daughter",
+        "gentleman",
+        "one",
+        "cousin"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1473_5",
+      "answer": "heiress",
+      "candidates": [
+        "one",
+        "noblemall",
+        "gentleman",
+        "heiress"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1473_6",
+      "answer": "noblewoman",
+      "candidates": [
+        "one",
+        "agent",
+        "cousin",
+        "noblewoman"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "507_0",
+      "answer": "carpenter",
+      "candidates": [
+        "niece",
+        "proprietor",
+        "brother",
+        "carpenter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "507_4",
+      "answer": "brother",
+      "candidates": [
+        "niece",
+        "brother",
+        "squire",
+        "carpenter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "507_6",
+      "answer": "proprietor",
+      "candidates": [
+        "squire",
+        "proprietor",
+        "brother",
+        "niece"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "507_5",
+      "answer": "wife",
+      "candidates": [
+        "carpenter",
+        "wife",
+        "squire",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "980_0",
+      "answer": "girl",
+      "candidates": [
+        "father",
+        "wife",
+        "girl",
+        "relative"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "980_0",
+      "answer": "wife",
+      "candidates": [
+        "relative",
+        "son",
+        "wife",
+        "girl"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "980_1",
+      "answer": "son",
+      "candidates": [
+        "relative",
+        "son",
+        "girl",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "980_3",
+      "answer": "friend",
+      "candidates": [
+        "wife",
+        "father",
+        "relative",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "432_0",
+      "answer": "friend",
+      "candidates": [
+        "expatriate",
+        "friend",
+        "acquaintance",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "35505_0",
+      "answer": "daughter",
+      "candidates": [
+        "suitor",
+        "daughter",
+        "miser",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "35505_1",
+      "answer": "suitor",
+      "candidates": [
+        "suitor",
+        "miser",
+        "friend",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1156_3",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "broker",
+        "friend",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1156_2",
+      "answer": "son",
+      "candidates": [
+        "wife",
+        "son",
+        "daughter",
+        "broker"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "11197_1",
+      "answer": "deer",
+      "candidates": [
+        "deer",
+        "cousin",
+        "brother",
+        "stag"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "63849_1",
+      "answer": "brother",
+      "candidates": [
+        "stag",
+        "cousin",
+        "deer",
+        "brother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3409_13",
+      "answer": "bishop",
+      "candidates": [
+        "wife",
+        "dean",
+        "candidate",
+        "bishop"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3409_5",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "daughter",
+        "bishop",
+        "chaplain"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3409_8",
+      "answer": "archdeacon",
+      "candidates": [
+        "dean",
+        "archdeacon",
+        "daughter",
+        "candidate"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1023_0",
+      "answer": "cousin",
+      "candidates": [
+        "wife",
+        "cousin",
+        "owner",
+        "ward"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1023_4",
+      "answer": "ward",
+      "candidates": [
+        "ward",
+        "solicitor",
+        "cousin",
+        "physician"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1023_15",
+      "answer": "physician",
+      "candidates": [
+        "physician",
+        "ward",
+        "owner",
+        "clerk"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1023_17",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "clerk",
+        "cousin",
+        "ward"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1023_8",
+      "answer": "solicitor",
+      "candidates": [
+        "owner",
+        "clerk",
+        "solicitor",
+        "wife"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1023_5",
+      "answer": "clerk",
+      "candidates": [
+        "clerk",
+        "wife",
+        "ward",
+        "physician"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2081_0",
+      "answer": "woman",
+      "candidates": [
+        "resident",
+        "loved",
+        "woman",
+        "protector"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2081_2",
+      "answer": "maiden",
+      "candidates": [
+        "loved",
+        "maiden",
+        "protector",
+        "resident"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2081_1",
+      "answer": "loved",
+      "candidates": [
+        "resident",
+        "woman",
+        "protector",
+        "loved"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "471_3",
+      "answer": "keeper",
+      "candidates": [
+        "wife",
+        "e",
+        "master",
+        "keeper"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "471_0",
+      "answer": "daughter",
+      "candidates": [
+        "keeper",
+        "e",
+        "nobleman",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "471_0",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "keeper",
+        "daughter",
+        "kinsman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "471_1",
+      "answer": "servant",
+      "candidates": [
+        "wife",
+        "keeper",
+        "tenant",
+        "servant"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "28054_11",
+      "answer": "son",
+      "candidates": [
+        "priest",
+        "betrothed",
+        "son",
+        "servant"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "28054_4",
+      "answer": "woman",
+      "candidates": [
+        "servant",
+        "priest",
+        "son",
+        "woman"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "28054_3",
+      "answer": "servant",
+      "candidates": [
+        "servant",
+        "priest",
+        "son",
+        "woman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "28054_16",
+      "answer": "priest",
+      "candidates": [
+        "betrothed",
+        "priest",
+        "son",
+        "businessman"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "28054_8",
+      "answer": "betrothed",
+      "candidates": [
+        "businessman",
+        "betrothed",
+        "son",
+        "servant"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "19942_0",
+      "answer": "son",
+      "candidates": [
+        "servant",
+        "daughter",
+        "friend",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1921_3",
+      "answer": "maid",
+      "candidates": [
+        "maid",
+        "agent",
+        "chouan",
+        "royalist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1921_6",
+      "answer": "agent",
+      "candidates": [
+        "maid",
+        "agent",
+        "soldier",
+        "royalist"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1921_1",
+      "answer": "soldier",
+      "candidates": [
+        "maid",
+        "leader",
+        "daughter",
+        "soldier"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "46124_0",
+      "answer": "farmer",
+      "candidates": [
+        "orphan",
+        "man",
+        "farmer",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2772_0",
+      "answer": "heir",
+      "candidates": [
+        "heir",
+        "lawyer",
+        "mother",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2772_1",
+      "answer": "father",
+      "candidates": [
+        "mother",
+        "separated",
+        "father",
+        "lawyer"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2772_3",
+      "answer": "guardian",
+      "candidates": [
+        "separated",
+        "heir",
+        "guardian",
+        "father"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "367_0",
+      "answer": "herbalist",
+      "candidates": [
+        "sweetheart",
+        "brother",
+        "writer",
+        "herbalist"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1856_1",
+      "answer": "friend",
+      "candidates": [
+        "musician",
+        "partress",
+        "friend",
+        "wife"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1856_3",
+      "answer": "partress",
+      "candidates": [
+        "partress",
+        "wife",
+        "cousin",
+        "musician"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1856_4",
+      "answer": "attorney",
+      "candidates": [
+        "friend",
+        "attorney",
+        "partress",
+        "cousin"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1856_5",
+      "answer": "friend",
+      "candidates": [
+        "friend",
+        "partress",
+        "wife",
+        "musician"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "394_5",
+      "answer": "servant",
+      "candidates": [
+        "brother",
+        "servant",
+        "sister",
+        "narrator"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2554_0",
+      "answer": "student",
+      "candidates": [
+        "inspector",
+        "student",
+        "friend",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2554_3",
+      "answer": "sister",
+      "candidates": [
+        "sister",
+        "student",
+        "friend",
+        "prostitute"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2554_1",
+      "answer": "prostitute",
+      "candidates": [
+        "student",
+        "prostitute",
+        "friend",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2554_6",
+      "answer": "inspector",
+      "candidates": [
+        "student",
+        "sister",
+        "inspector",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2554_2",
+      "answer": "friend",
+      "candidates": [
+        "friend",
+        "prostitute",
+        "sister",
+        "student"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2123_0",
+      "answer": "ward",
+      "candidates": [
+        "student",
+        "ward",
+        "bibliophile",
+        "schoolteacher"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "31406_0",
+      "answer": "schoolmaster",
+      "candidates": [
+        "planter",
+        "daughters",
+        "schoolmaster",
+        "slave"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "31406_10",
+      "answer": "clergyman",
+      "candidates": [
+        "bully",
+        "husband",
+        "clergyman",
+        "schoolmaster"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "31406_4",
+      "answer": "husband",
+      "candidates": [
+        "planter",
+        "slaves",
+        "husband",
+        "farmer"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "31406_8",
+      "answer": "farmer",
+      "candidates": [
+        "schoolmaster",
+        "farmer",
+        "slaves",
+        "daughters"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "31406_3",
+      "answer": "slaves",
+      "candidates": [
+        "slaves",
+        "planter",
+        "slave",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "31406_6",
+      "answer": "bully",
+      "candidates": [
+        "bully",
+        "husband",
+        "slave",
+        "farmer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "11052_3",
+      "answer": "woman",
+      "candidates": [
+        "woman",
+        "son",
+        "husband",
+        "lover"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "11052_1",
+      "answer": "husband",
+      "candidates": [
+        "woman",
+        "son",
+        "lover",
+        "husband"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "11052_6",
+      "answer": "son",
+      "candidates": [
+        "woman",
+        "son",
+        "husband",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "11052_5",
+      "answer": "husband",
+      "candidates": [
+        "son",
+        "husband",
+        "father",
+        "woman"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "8487_0",
+      "answer": "farmer",
+      "candidates": [
+        "farmer",
+        "mother",
+        "father",
+        "girl"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7469_5",
+      "answer": "guardian",
+      "candidates": [
+        "musician",
+        "guardian",
+        "mother",
+        "wife"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7469_14",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "guardian",
+        "son",
+        "shopkeeper"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7469_1",
+      "answer": "lady",
+      "candidates": [
+        "son",
+        "musician",
+        "lady",
+        "husband"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7469_8",
+      "answer": "mother",
+      "candidates": [
+        "girl",
+        "shopkeeper",
+        "mother",
+        "lady"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7469_11",
+      "answer": "sister",
+      "candidates": [
+        "lady",
+        "sister",
+        "daughter",
+        "musician"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7469_6",
+      "answer": "husband",
+      "candidates": [
+        "mistress",
+        "lady",
+        "husband",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7469_6",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "follower",
+        "mistress",
+        "musician"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7469_11",
+      "answer": "daughter",
+      "candidates": [
+        "wife",
+        "girl",
+        "sister",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "7469_12",
+      "answer": "follower",
+      "candidates": [
+        "follower",
+        "sister",
+        "musician",
+        "guardian"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7469_7",
+      "answer": "one",
+      "candidates": [
+        "girl",
+        "one",
+        "sister",
+        "follower"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7469_13",
+      "answer": "mother",
+      "candidates": [
+        "follower",
+        "mother",
+        "one",
+        "guardian"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7469_9",
+      "answer": "shopkeeper",
+      "candidates": [
+        "shopkeeper",
+        "son",
+        "husband",
+        "mother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3285_2",
+      "answer": "scout",
+      "candidates": [
+        "called",
+        "deersla",
+        "girl",
+        "scout"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3285_6",
+      "answer": "deersla",
+      "candidates": [
+        "scout",
+        "owner",
+        "girl",
+        "deersla"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "10720_0",
+      "answer": "niece",
+      "candidates": [
+        "doctor",
+        "servant",
+        "niece",
+        "mother"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3166_1",
+      "answer": "niece",
+      "candidates": [
+        "wife",
+        "heiress",
+        "niece",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3166_4",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "son",
+        "owner",
+        "doctor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3166_0",
+      "answer": "son",
+      "candidates": [
+        "niece",
+        "wife",
+        "heiress",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "821_16",
+      "answer": "son",
+      "candidates": [
+        "daughter",
+        "merchant",
+        "son",
+        "agent"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "821_1",
+      "answer": "daughter",
+      "candidates": [
+        "wife",
+        "daughter",
+        "merchant",
+        "son"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "13851_0",
+      "answer": "private",
+      "candidates": [
+        "manufacturer",
+        "farmer",
+        "private",
+        "corporal"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "13851_3",
+      "answer": "manufacturer",
+      "candidates": [
+        "sister",
+        "manufacturer",
+        "corporal",
+        "farmer"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "13851_4",
+      "answer": "servant",
+      "candidates": [
+        "corporal",
+        "manufacturer",
+        "secretary",
+        "servant"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "345_2",
+      "answer": "solicitor",
+      "candidates": [
+        "head",
+        "fiancee",
+        "solicitor",
+        "nobleman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "345_3",
+      "answer": "head",
+      "candidates": [
+        "specialist",
+        "solicitor",
+        "head",
+        "nobleman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "345_1",
+      "answer": "specialist",
+      "candidates": [
+        "specialist",
+        "fiancee",
+        "nobleman",
+        "solicitor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "345_0",
+      "answer": "friend",
+      "candidates": [
+        "friend",
+        "head",
+        "engaged",
+        "solicitor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "345_6",
+      "answer": "engaged",
+      "candidates": [
+        "friend",
+        "fiancee",
+        "engaged",
+        "solicitor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "158_0",
+      "answer": "heiress",
+      "candidates": [
+        "heiress",
+        "former",
+        "niece",
+        "gossip"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "158_5",
+      "answer": "father",
+      "candidates": [
+        "father",
+        "gossip",
+        "niece",
+        "protge*e"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "158_1",
+      "answer": "protegee",
+      "candidates": [
+        "yeoman",
+        "protge*e",
+        "protegee",
+        "niece"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "158_11",
+      "answer": "gossip",
+      "candidates": [
+        "rector",
+        "stepson",
+        "brother",
+        "gossip"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "158_4",
+      "answer": "niece",
+      "candidates": [
+        "protge*e",
+        "niece",
+        "gossip",
+        "former"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "158_6",
+      "answer": "governess",
+      "candidates": [
+        "heiress",
+        "gossip",
+        "governess",
+        "rector"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "158_8",
+      "answer": "stepson",
+      "candidates": [
+        "gossip",
+        "niece",
+        "yeoman",
+        "stepson"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "158_7",
+      "answer": "rector",
+      "candidates": [
+        "niece",
+        "rector",
+        "protge*e",
+        "gossip"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7926_0",
+      "answer": "courtier",
+      "candidates": [
+        "courtier",
+        "friend",
+        "enchantress",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "8446_0",
+      "answer": "prisoners",
+      "candidates": [
+        "prisoners",
+        "friend",
+        "head",
+        "driver"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "8157_0",
+      "answer": "girl",
+      "candidates": [
+        "girl",
+        "mistress",
+        "employer",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "8157_1",
+      "answer": "betrayer",
+      "candidates": [
+        "enemy",
+        "girl",
+        "betrayer",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "8157_3",
+      "answer": "mistress",
+      "candidates": [
+        "betrayer",
+        "mistress",
+        "enemy",
+        "girl"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "8157_2",
+      "answer": "enemy",
+      "candidates": [
+        "son",
+        "mistress",
+        "enemy",
+        "girl"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1715_1",
+      "answer": "miser",
+      "candidates": [
+        "daughter",
+        "miser",
+        "notary",
+        "banker"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1715_3",
+      "answer": "nephew",
+      "candidates": [
+        "banker",
+        "nephew",
+        "daughter",
+        "miser"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "27_0",
+      "answer": "shepherd",
+      "candidates": [
+        "betrayed",
+        "mistress",
+        "husband",
+        "shepherd"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "27_2",
+      "answer": "suitor",
+      "candidates": [
+        "shepherd",
+        "suitor",
+        "betrayed",
+        "husband"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "47935_1",
+      "answer": "son",
+      "candidates": [
+        "widow",
+        "son",
+        "sister",
+        "mistress"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7887_1",
+      "answer": "friend",
+      "candidates": [
+        "writer",
+        "wife",
+        "friend",
+        "student"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7887_2",
+      "answer": "wife",
+      "candidates": [
+        "student",
+        "wife",
+        "writer",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7887_3",
+      "answer": "student",
+      "candidates": [
+        "friend",
+        "bookseller",
+        "student",
+        "writer"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7887_4",
+      "answer": "bookseller",
+      "candidates": [
+        "friend",
+        "student",
+        "bookseller",
+        "writer"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "5950_4",
+      "answer": "lord",
+      "candidates": [
+        "king",
+        "goddaughter",
+        "nobleman",
+        "lord"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "5950_8",
+      "answer": "goddaughter",
+      "candidates": [
+        "goddaughter",
+        "usurer",
+        "related",
+        "king"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "5950_5",
+      "answer": "son",
+      "candidates": [
+        "daughter",
+        "lord",
+        "servant",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2773_0",
+      "answer": "writer",
+      "candidates": [
+        "brother",
+        "father",
+        "writer",
+        "wife"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2773_3",
+      "answer": "brother",
+      "candidates": [
+        "daughter",
+        "seamstress",
+        "husband",
+        "brother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2773_2",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "daughter",
+        "model",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2773_1",
+      "answer": "father",
+      "candidates": [
+        "writer",
+        "brother",
+        "father",
+        "wife"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "19191_5",
+      "answer": "suitor",
+      "candidates": [
+        "manager",
+        "suitor",
+        "wife",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2197_0",
+      "answer": "stepdaughter",
+      "candidates": [
+        "nobleman",
+        "adventuress",
+        "stepdaughter",
+        "gambler"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2197_1",
+      "answer": "adventuress",
+      "candidates": [
+        "stepdaughter",
+        "gambler",
+        "nobleman",
+        "adventuress"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1200_4",
+      "answer": "son",
+      "candidates": [
+        "rascal",
+        "son",
+        "wife",
+        "monk"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1200_0",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "rascal",
+        "wife",
+        "monk"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "27711_2",
+      "answer": "friend",
+      "candidates": [
+        "maidservant",
+        "lover",
+        "employer",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "24010_0",
+      "answer": "painter",
+      "candidates": [
+        "prostitute",
+        "painter",
+        "monk",
+        "revolutionaries"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "24010_2",
+      "answer": "daughter",
+      "candidates": [
+        "dragoon",
+        "wife",
+        "prostitute",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1400_6",
+      "answer": "orphan",
+      "candidates": [
+        "solicitor",
+        "brother",
+        "orphan",
+        "convict"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1400_1",
+      "answer": "recluse",
+      "candidates": [
+        "convict",
+        "recluse",
+        "orphan",
+        "roommate"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "64317_1",
+      "answer": "husband",
+      "candidates": [
+        "cousin",
+        "racketeer",
+        "husband",
+        "mistress"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "64317_0",
+      "answer": "racketeer",
+      "candidates": [
+        "husband",
+        "racketeer",
+        "salesman",
+        "mistress"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "786_6",
+      "answer": "schoolmaster",
+      "candidates": [
+        "waif",
+        "brother",
+        "schoolmaster",
+        "aspirant"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "786_1",
+      "answer": "brother",
+      "candidates": [
+        "brother",
+        "schoolmaster",
+        "waif",
+        "aspirant"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "786_5",
+      "answer": "waif",
+      "candidates": [
+        "housekeeper",
+        "waif",
+        "daughter",
+        "aspirant"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "786_2",
+      "answer": "housekeeper",
+      "candidates": [
+        "daughter",
+        "aspirant",
+        "housekeeper",
+        "employee"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "786_4",
+      "answer": "employee",
+      "candidates": [
+        "employee",
+        "brother",
+        "schoolmaster",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "786_8",
+      "answer": "aspirant",
+      "candidates": [
+        "aspirant",
+        "daughter",
+        "waif",
+        "housekeeper"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "5721_2",
+      "answer": "widow",
+      "candidates": [
+        "daughter",
+        "widow",
+        "official",
+        "cousin"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "5721_3",
+      "answer": "wife",
+      "candidates": [
+        "cousin",
+        "wife",
+        "daughter",
+        "widow"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "284_0",
+      "answer": "schemer",
+      "candidates": [
+        "man",
+        "friend",
+        "wife",
+        "schemer"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "284_5",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "herfriend",
+        "husband",
+        "man"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "284_3",
+      "answer": "hated",
+      "candidates": [
+        "man",
+        "herfriend",
+        "hated",
+        "socialite"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "77_2",
+      "answer": "brother",
+      "candidates": [
+        "brother",
+        "lodger",
+        "kinsman",
+        "cousin"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "77_1",
+      "answer": "cousin",
+      "candidates": [
+        "spinster",
+        "kinsman",
+        "cousin",
+        "brother"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "25876_0",
+      "answer": "merchant",
+      "candidates": [
+        "wife",
+        "competitor",
+        "merchant",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2946_2",
+      "answer": "son",
+      "candidates": [
+        "sister",
+        "businessman",
+        "man",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2946_4",
+      "answer": "man",
+      "candidates": [
+        "man",
+        "wife",
+        "businessman",
+        "sister"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2196_1",
+      "answer": "cousin",
+      "candidates": [
+        "cousin",
+        "breton",
+        "grandmother",
+        "fisherman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2196_0",
+      "answer": "fisherman",
+      "candidates": [
+        "grandmother",
+        "cousin",
+        "fisherman",
+        "breton"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "14145_3",
+      "answer": "employer",
+      "candidates": [
+        "employer",
+        "friend",
+        "son",
+        "idealist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "14145_1",
+      "answer": "associate",
+      "candidates": [
+        "associate",
+        "wife",
+        "son",
+        "friend"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7359_2",
+      "answer": "girl",
+      "candidates": [
+        "bachelor",
+        "daughter",
+        "girl",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7359_1",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "girl",
+        "bachelor",
+        "friend"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "63445_2",
+      "answer": "husband",
+      "candidates": [
+        "husband",
+        "sister",
+        "creole",
+        "cousin"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "63445_4",
+      "answer": "sister",
+      "candidates": [
+        "sister",
+        "lover",
+        "creole",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "9865_0",
+      "answer": "captain",
+      "candidates": [
+        "father",
+        "uncle",
+        "captain",
+        "sweetheart"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "9865_1",
+      "answer": "sweetheart",
+      "candidates": [
+        "sweetheart",
+        "captain",
+        "bride",
+        "father"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2351_0",
+      "answer": "one",
+      "candidates": [
+        "son",
+        "wife",
+        "one",
+        "landowner"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2351_2",
+      "answer": "wife",
+      "candidates": [
+        "benefactor",
+        "wife",
+        "son",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2351_1",
+      "answer": "son",
+      "candidates": [
+        "one",
+        "son",
+        "landowner",
+        "wife"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2351_4",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "benefactor",
+        "wife",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2351_3",
+      "answer": "son",
+      "candidates": [
+        "benefactor",
+        "son",
+        "wife",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2351_7",
+      "answer": "landowner",
+      "candidates": [
+        "daughter",
+        "son",
+        "wife",
+        "landowner"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "153_0",
+      "answer": "stonemason",
+      "candidates": [
+        "stonemason",
+        "grandaunt",
+        "girl",
+        "schoolmaster"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "153_2",
+      "answer": "girl",
+      "candidates": [
+        "stonemason",
+        "grandaunt",
+        "schoolmaster",
+        "girl"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "140_1",
+      "answer": "wife",
+      "candidates": [
+        "stepmother",
+        "cousin",
+        "worker",
+        "wife"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "140_2",
+      "answer": "cousin",
+      "candidates": [
+        "stepmother",
+        "cousin",
+        "wife",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1606_0",
+      "answer": "master",
+      "candidates": [
+        "servant",
+        "wife",
+        "earl",
+        "master"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1606_9",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "servant",
+        "earl",
+        "master"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "421_1",
+      "answer": "kidnapped",
+      "candidates": [
+        "kidnapped",
+        "adventurer",
+        "lawyer",
+        "uncle"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "421_0",
+      "answer": "adventurer",
+      "candidates": [
+        "kidnapped",
+        "lawyer",
+        "uncle",
+        "adventurer"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2226_1",
+      "answer": "trader",
+      "candidates": [
+        "street",
+        "babu",
+        "boy",
+        "trader"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "42096_1",
+      "answer": "englishwoman",
+      "candidates": [
+        "boy",
+        "daughter",
+        "bandit",
+        "englishwoman"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2166_0",
+      "answer": "friend",
+      "candidates": [
+        "ruler",
+        "sorceress",
+        "explorer",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2166_2",
+      "answer": "ruler",
+      "candidates": [
+        "explorer",
+        "ruler",
+        "sorceress",
+        "chieftain"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3045_0",
+      "answer": "curate",
+      "candidates": [
+        "friend",
+        "bishop",
+        "curate",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3045_2",
+      "answer": "wife",
+      "candidates": [
+        "daughter",
+        "suitor",
+        "wife",
+        "bishop"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3045_2",
+      "answer": "daughter",
+      "candidates": [
+        "bishop",
+        "wife",
+        "friend",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3045_12",
+      "answer": "suitor",
+      "candidates": [
+        "curate",
+        "wife",
+        "suitor",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3045_1",
+      "answer": "friend",
+      "candidates": [
+        "suitor",
+        "friend",
+        "bishop",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3045_3",
+      "answer": "suitor",
+      "candidates": [
+        "bishop",
+        "friend",
+        "suitor",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1565_0",
+      "answer": "greek",
+      "candidates": [
+        "priest",
+        "greek",
+        "ward",
+        "girl"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1565_3",
+      "answer": "girl",
+      "candidates": [
+        "greek",
+        "girl",
+        "brother",
+        "priest"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "963_4",
+      "answer": "sister",
+      "candidates": [
+        "mother",
+        "sister",
+        "blackmailer",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "16517_0",
+      "answer": "girl",
+      "candidates": [
+        "lover",
+        "friend",
+        "girl",
+        "loved"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "16517_2",
+      "answer": "loved",
+      "candidates": [
+        "friend",
+        "loved",
+        "lover",
+        "girl"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "16517_1",
+      "answer": "lover",
+      "candidates": [
+        "lover",
+        "girl",
+        "friend",
+        "loved"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2604_1",
+      "answer": "friend",
+      "candidates": [
+        "aunt",
+        "student",
+        "friend",
+        "brother"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2604_2",
+      "answer": "brother",
+      "candidates": [
+        "friend",
+        "aunt",
+        "brother",
+        "student"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "5658_0",
+      "answer": "sailor",
+      "candidates": [
+        "native",
+        "friend",
+        "trader",
+        "sailor"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2413_0",
+      "answer": "wife",
+      "candidates": [
+        "lawyer",
+        "wife",
+        "landowner",
+        "doctor"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "5083_0",
+      "answer": "englishman",
+      "candidates": [
+        "prostitute",
+        "englishman",
+        "heiress",
+        "fanner"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "39122_0",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "landlady",
+        "midget",
+        "patroness"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "145_1",
+      "answer": "girl",
+      "candidates": [
+        "girl",
+        "married",
+        "sister",
+        "doctor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "145_4",
+      "answer": "husband",
+      "candidates": [
+        "doctor",
+        "married",
+        "sister",
+        "husband"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "145_2",
+      "answer": "cousin",
+      "candidates": [
+        "husband",
+        "cousin",
+        "doctor",
+        "married"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "145_11",
+      "answer": "sister",
+      "candidates": [
+        "married",
+        "husband",
+        "sister",
+        "cousin"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "14060_1",
+      "answer": "american",
+      "candidates": [
+        "secretary",
+        "american",
+        "wife",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "14060_0",
+      "answer": "writer",
+      "candidates": [
+        "writer",
+        "american",
+        "sister",
+        "wife"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "14060_3",
+      "answer": "son",
+      "candidates": [
+        "writer",
+        "son",
+        "wife",
+        "secretary"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "14060_2",
+      "answer": "secretary",
+      "candidates": [
+        "secretary",
+        "wife",
+        "american",
+        "tutor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "14060_4",
+      "answer": "tutor",
+      "candidates": [
+        "tutor",
+        "secretary",
+        "american",
+        "writer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "155_0",
+      "answer": "sister",
+      "candidates": [
+        "physician",
+        "sister",
+        "niece",
+        "adventurer"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "155_0",
+      "answer": "niece",
+      "candidates": [
+        "nephew",
+        "adventurer",
+        "niece",
+        "physician"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "155_1",
+      "answer": "nephew",
+      "candidates": [
+        "sister",
+        "niece",
+        "physician",
+        "nephew"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "155_5",
+      "answer": "maid",
+      "candidates": [
+        "worker",
+        "maid",
+        "sister",
+        "physician"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3783_0",
+      "answer": "son",
+      "candidates": [
+        "friends",
+        "heroine",
+        "son",
+        "e"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3268_6",
+      "answer": "sweetheart",
+      "candidates": [
+        "nobleman",
+        "married",
+        "sweetheart",
+        "aunt"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3268_7",
+      "answer": "nobleman",
+      "candidates": [
+        "married",
+        "nobleman",
+        "sweetheart",
+        "aunt"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "564_6",
+      "answer": "engineer",
+      "candidates": [
+        "uncle",
+        "sister",
+        "cee",
+        "engineer"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "564_1",
+      "answer": "cee",
+      "candidates": [
+        "sister",
+        "uncle",
+        "cee",
+        "stonemason"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "564_4",
+      "answer": "man",
+      "candidates": [
+        "man",
+        "tutor",
+        "cee",
+        "sister"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "564_2",
+      "answer": "tutor",
+      "candidates": [
+        "tutor",
+        "sister",
+        "stonemason",
+        "uncle"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "20058_0",
+      "answer": "provost",
+      "candidates": [
+        "king",
+        "ton",
+        "provost",
+        "general"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "20058_3",
+      "answer": "ton",
+      "candidates": [
+        "ton",
+        "king",
+        "provost",
+        "general"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "967_1",
+      "answer": "uncle",
+      "candidates": [
+        "boy",
+        "uncle",
+        "schoolmaster",
+        "mother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "967_8",
+      "answer": "boy",
+      "candidates": [
+        "sister",
+        "uncle",
+        "boy",
+        "mother"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "55389_0",
+      "answer": "hero",
+      "candidates": [
+        "friend",
+        "wife",
+        "hero",
+        "cousin"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "55389_1",
+      "answer": "friend",
+      "candidates": [
+        "wife",
+        "friend",
+        "cousin",
+        "widow"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "9909_0",
+      "answer": "son",
+      "candidates": [
+        "daughter",
+        "dandy",
+        "son",
+        "master"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "121_2",
+      "answer": "friend",
+      "candidates": [
+        "sister",
+        "friend",
+        "brother",
+        "admired"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "121_4",
+      "answer": "brother",
+      "candidates": [
+        "friend",
+        "brother",
+        "reader",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "121_3",
+      "answer": "brother",
+      "candidates": [
+        "friend",
+        "reader",
+        "benefactress",
+        "brother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "121_1",
+      "answer": "admired",
+      "candidates": [
+        "reader",
+        "brother",
+        "admired",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "351_0",
+      "answer": "boy",
+      "candidates": [
+        "boy",
+        "friend",
+        "love",
+        "waitress"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "351_10",
+      "answer": "love",
+      "candidates": [
+        "daughter",
+        "aunt",
+        "love",
+        "waitress"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "351_4",
+      "answer": "friend",
+      "candidates": [
+        "daughter",
+        "uncle",
+        "friend",
+        "aunt"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "700_6",
+      "answer": "sister",
+      "candidates": [
+        "sister",
+        "orphan",
+        "dealer",
+        "uncle"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "5247_2",
+      "answer": "husband",
+      "candidates": [
+        "princess",
+        "husband",
+        "mother",
+        "smith"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "5247_5",
+      "answer": "husband",
+      "candidates": [
+        "wife",
+        "father",
+        "husband",
+        "son"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "5247_4",
+      "answer": "son",
+      "candidates": [
+        "daughters",
+        "son",
+        "princess",
+        "smith"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "730_0",
+      "answer": "waif",
+      "candidates": [
+        "confederate",
+        "trainer",
+        "waif",
+        "benefactor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "730_6",
+      "answer": "benefactor",
+      "candidates": [
+        "confederate",
+        "brother",
+        "benefactor",
+        "waif"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "730_5",
+      "answer": "daughter",
+      "candidates": [
+        "official",
+        "daughter",
+        "trainer",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "730_4",
+      "answer": "trainer",
+      "candidates": [
+        "daughter",
+        "trainer",
+        "confederate",
+        "official"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "730_1",
+      "answer": "official",
+      "candidates": [
+        "confederate",
+        "waif",
+        "official",
+        "benefactor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "883_0",
+      "answer": "loved",
+      "candidates": [
+        "loved",
+        "lawyer",
+        "scheining",
+        "compatrict"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2774_4",
+      "answer": "wife",
+      "candidates": [
+        "daughter",
+        "miltoun",
+        "liberal",
+        "wife"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2774_3",
+      "answer": "mother",
+      "candidates": [
+        "separated",
+        "daughter",
+        "miltoun",
+        "mother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2774_2",
+      "answer": "liberal",
+      "candidates": [
+        "separated",
+        "daughter",
+        "mother",
+        "liberal"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3670_0",
+      "answer": "painter",
+      "candidates": [
+        "admirer",
+        "ad.lnirer",
+        "painter",
+        "actor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "105_1",
+      "answer": "owner",
+      "candidates": [
+        "husband",
+        "friend",
+        "cousin",
+        "owner"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "105_0",
+      "answer": "daughter",
+      "candidates": [
+        "sisters",
+        "daughter",
+        "owner",
+        "cousin"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "105_4",
+      "answer": "husband",
+      "candidates": [
+        "officer",
+        "husband",
+        "sisters",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "105_3",
+      "answer": "sisters",
+      "candidates": [
+        "officer",
+        "owner",
+        "sisters",
+        "cousin"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "16_0",
+      "answer": "boy",
+      "candidates": [
+        "dog",
+        "captain",
+        "boy",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "16_1",
+      "answer": "friend",
+      "candidates": [
+        "boy",
+        "captain",
+        "fairy",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "16_2",
+      "answer": "captain",
+      "candidates": [
+        "dog",
+        "captain",
+        "fairy",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "26740_0",
+      "answer": "man",
+      "candidates": [
+        "actress",
+        "tempter",
+        "brother",
+        "man"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "26740_1",
+      "answer": "tempter",
+      "candidates": [
+        "man",
+        "actress",
+        "brother",
+        "tempter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "6450_0",
+      "answer": "desperado",
+      "candidates": [
+        "naturalist",
+        "frontiersman",
+        "desperado",
+        "chief"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "6450_3",
+      "answer": "niece",
+      "candidates": [
+        "desperado",
+        "lover",
+        "wife",
+        "niece"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "6450_1",
+      "answer": "lover",
+      "candidates": [
+        "lover",
+        "wife",
+        "niece",
+        "naturalist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1837_1",
+      "answer": "street",
+      "candidates": [
+        "father",
+        "street",
+        "thief",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1837_2",
+      "answer": "knight",
+      "candidates": [
+        "street",
+        "knight",
+        "thief",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1028_0",
+      "answer": "owner",
+      "candidates": [
+        "student",
+        "brother",
+        "mistress",
+        "owner"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "20122_3",
+      "answer": "girl",
+      "candidates": [
+        "officer",
+        "girl",
+        "adventurer",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7853_0",
+      "answer": "cadet",
+      "candidates": [
+        "outlaw",
+        "cadet",
+        "oudaw",
+        "duke"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "28948_0",
+      "answer": "anna",
+      "candidates": [
+        "wife",
+        "anna",
+        "farmer",
+        "lover"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "41636_6",
+      "answer": "ward",
+      "candidates": [
+        "ward",
+        "atheist",
+        "priest",
+        "girl"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "41636_2",
+      "answer": "atheist",
+      "candidates": [
+        "ward",
+        "atheist",
+        "girl",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "37039_2",
+      "answer": "painter",
+      "candidates": [
+        "painter",
+        "doctor",
+        "actress",
+        "writer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "37039_1",
+      "answer": "philosopher",
+      "candidates": [
+        "philosopher",
+        "painter",
+        "writer",
+        "doctor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3075_1",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "englishman",
+        "rector",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "122_3",
+      "answer": "reddleman",
+      "candidates": [
+        "guardian",
+        "reddleman",
+        "proprietor",
+        "betrothed"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "122_5",
+      "answer": "guardian",
+      "candidates": [
+        "woman",
+        "guardian",
+        "proprietor",
+        "son"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "122_4",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "woman",
+        "proprietor",
+        "reddleman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "154_2",
+      "answer": "manufacturer",
+      "candidates": [
+        "friend",
+        "partner",
+        "daughters",
+        "manufacturer"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "154_2",
+      "answer": "wife",
+      "candidates": [
+        "friend",
+        "wife",
+        "daughters",
+        "partner"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "154_3",
+      "answer": "daughters",
+      "candidates": [
+        "wife",
+        "daughters",
+        "friend",
+        "partner"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "154_7",
+      "answer": "friend",
+      "candidates": [
+        "friend",
+        "manufacturer",
+        "partner",
+        "daughters"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "154_6",
+      "answer": "partner",
+      "candidates": [
+        "wife",
+        "friend",
+        "partner",
+        "daughters"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "24020_8",
+      "answer": "scholar",
+      "candidates": [
+        "scholar",
+        "benefactor",
+        "girl",
+        "adventurer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "24020_0",
+      "answer": "daughter",
+      "candidates": [
+        "benefactor",
+        "daughter",
+        "adventurer",
+        "scholar"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "8455_1",
+      "answer": "mistress",
+      "candidates": [
+        "mistress",
+        "friend",
+        "philosopher",
+        "monk"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "8455_2",
+      "answer": "friend",
+      "candidates": [
+        "philosopher",
+        "monk",
+        "friend",
+        "saint"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "8455_6",
+      "answer": "philosopher",
+      "candidates": [
+        "monk",
+        "mistress",
+        "philosopher",
+        "saint"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "8455_4",
+      "answer": "monk",
+      "candidates": [
+        "philosopher",
+        "friend",
+        "monk",
+        "mistress"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "6086_1",
+      "answer": "ife",
+      "candidates": [
+        "friend",
+        "ife",
+        "king",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "6086_1",
+      "answer": "daughter",
+      "candidates": [
+        "friend",
+        "king",
+        "daughter",
+        "ife"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "6086_3",
+      "answer": "friend",
+      "candidates": [
+        "ife",
+        "friend",
+        "heir",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "6086_2",
+      "answer": "heir",
+      "candidates": [
+        "heir",
+        "king",
+        "nobleman",
+        "ife"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "21839_0",
+      "answer": "sister",
+      "candidates": [
+        "loved",
+        "sister",
+        "relation",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "21839_2",
+      "answer": "brother",
+      "candidates": [
+        "brother",
+        "sister",
+        "woman",
+        "relation"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3155_0",
+      "answer": "ward",
+      "candidates": [
+        "teacher",
+        "servant",
+        "ward",
+        "e"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3155_2",
+      "answer": "servant",
+      "candidates": [
+        "teacher",
+        "man",
+        "ward",
+        "servant"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "30486_1",
+      "answer": "mistress",
+      "candidates": [
+        "manager",
+        "niece",
+        "governess",
+        "mistress"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "30486_0",
+      "answer": "niece",
+      "candidates": [
+        "niece",
+        "mistress",
+        "manager",
+        "governess"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "30486_2",
+      "answer": "manager",
+      "candidates": [
+        "mistress",
+        "niece",
+        "manager",
+        "governess"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "30486_9",
+      "answer": "governess",
+      "candidates": [
+        "manager",
+        "mistress",
+        "niece",
+        "governess"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "550_0",
+      "answer": "weaver",
+      "candidates": [
+        "weaver",
+        "married",
+        "brother",
+        "father"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "550_1",
+      "answer": "father",
+      "candidates": [
+        "weaver",
+        "married",
+        "father",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "4599_12",
+      "answer": "squire",
+      "candidates": [
+        "daughter",
+        "suitor",
+        "squire",
+        "benefactor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "4599_0",
+      "answer": "sister",
+      "candidates": [
+        "sister",
+        "benefactor",
+        "squire",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "4599_5",
+      "answer": "nephew",
+      "candidates": [
+        "nephew",
+        "woman",
+        "sister",
+        "squire"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "4599_1",
+      "answer": "suitor",
+      "candidates": [
+        "woman",
+        "suitor",
+        "nephew",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "4599_4",
+      "answer": "suitor",
+      "candidates": [
+        "suitor",
+        "woman",
+        "nephew",
+        "squire"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "4599_9",
+      "answer": "woman",
+      "candidates": [
+        "woman",
+        "benefactor",
+        "daughter",
+        "suitor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "40813_2",
+      "answer": "clerk",
+      "candidates": [
+        "fiancee",
+        "aunt",
+        "clerk",
+        "husband"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "47634_2",
+      "answer": "mother",
+      "candidates": [
+        "sweetheart",
+        "husband",
+        "mistress",
+        "mother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "47634_0",
+      "answer": "son",
+      "candidates": [
+        "husband",
+        "son",
+        "mistress",
+        "sweetheart"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "47634_1",
+      "answer": "sweetheart",
+      "candidates": [
+        "son",
+        "sweetheart",
+        "mistress",
+        "husband"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "47634_4",
+      "answer": "mistress",
+      "candidates": [
+        "mother",
+        "daughter",
+        "sweetheart",
+        "mistress"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "47634_6",
+      "answer": "husband",
+      "candidates": [
+        "husband",
+        "sweetheart",
+        "daughter",
+        "mother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "4508_0",
+      "answer": "hedonist",
+      "candidates": [
+        "millionaire",
+        "priest",
+        "student",
+        "hedonist"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "33325_0",
+      "answer": "companion",
+      "candidates": [
+        "companion",
+        "mistress",
+        "e",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "33325_2",
+      "answer": "son",
+      "candidates": [
+        "e",
+        "mistress",
+        "son",
+        "companion"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "9845_4",
+      "answer": "peddler",
+      "candidates": [
+        "daughter",
+        "peddler",
+        "son",
+        "sympathizer"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "9845_3",
+      "answer": "sympathizer",
+      "candidates": [
+        "sympathizer",
+        "washingtod",
+        "peddler",
+        "officer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "9845_1",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "son",
+        "sympathizer",
+        "officer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "9845_8",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "washingtod",
+        "peddler",
+        "sympathizer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "9845_7",
+      "answer": "son",
+      "candidates": [
+        "sympathizer",
+        "daughter",
+        "washingtod",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1948_0",
+      "answer": "friend",
+      "candidates": [
+        "friends",
+        "friend",
+        "maid",
+        "grandfather"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1441_1",
+      "answer": "cousin",
+      "candidates": [
+        "woman",
+        "cousin",
+        "son",
+        "stepdaughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1441_0",
+      "answer": "englishman",
+      "candidates": [
+        "englishman",
+        "stepdaughter",
+        "hypocrite",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1377_1",
+      "answer": "knight",
+      "candidates": [
+        "physician",
+        "king",
+        "knight",
+        "kinswoman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1377_2",
+      "answer": "marquis",
+      "candidates": [
+        "marquis",
+        "physician",
+        "hermit",
+        "kinswoman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "6566_7",
+      "answer": "pole",
+      "candidates": [
+        "patriot",
+        "leader",
+        "grandfather",
+        "pole"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "6566_4",
+      "answer": "friend",
+      "candidates": [
+        "patriot",
+        "pole",
+        "leader",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1257_4",
+      "answer": "adventurer",
+      "candidates": [
+        "musketeers",
+        "seamstress",
+        "adventurer",
+        "agent"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "7281_1",
+      "answer": "midshipman",
+      "candidates": [
+        "a",
+        "cousin",
+        "smuggler",
+        "midshipman"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "39858_2",
+      "answer": "mood",
+      "candidates": [
+        "mood",
+        "musician",
+        "students",
+        "musiciad"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "555_0",
+      "answer": "bassington",
+      "candidates": [
+        "heiress",
+        "mother",
+        "bassington",
+        "p."
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "555_1",
+      "answer": "mother",
+      "candidates": [
+        "mother",
+        "p.",
+        "heiress",
+        "brother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "555_2",
+      "answer": "heiress",
+      "candidates": [
+        "mother",
+        "heiress",
+        "brother",
+        "p."
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "203_0",
+      "answer": "negro",
+      "candidates": [
+        "slave",
+        "negro",
+        "daughter",
+        "imp"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "203_7",
+      "answer": "planter",
+      "candidates": [
+        "planter",
+        "imp",
+        "negro",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "203_12",
+      "answer": "slave",
+      "candidates": [
+        "planter",
+        "negro",
+        "daughter",
+        "slave"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "203_14",
+      "answer": "imp",
+      "candidates": [
+        "daughter",
+        "slave",
+        "planter",
+        "imp"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2480_0",
+      "answer": "student",
+      "candidates": [
+        "student",
+        "revolutionist",
+        "friend",
+        "mother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2480_1",
+      "answer": "revolutionist",
+      "candidates": [
+        "mother",
+        "student",
+        "revolutionist",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "599_8",
+      "answer": "adventuress",
+      "candidates": [
+        "father",
+        "adventuress",
+        "friend",
+        "aunt"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "599_2",
+      "answer": "friend",
+      "candidates": [
+        "brother",
+        "adventuress",
+        "husband",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "599_16",
+      "answer": "aunt",
+      "candidates": [
+        "father",
+        "aunt",
+        "adventuress",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "26541_0",
+      "answer": "vicar",
+      "candidates": [
+        "landlord",
+        "son",
+        "cousin",
+        "vicar"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "26541_2",
+      "answer": "squire",
+      "candidates": [
+        "son",
+        "friend",
+        "squire",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "26541_7",
+      "answer": "wife",
+      "candidates": [
+        "friend",
+        "vicar",
+        "wife",
+        "cousin"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "26541_1",
+      "answer": "friend",
+      "candidates": [
+        "squire",
+        "friend",
+        "daughter",
+        "cousin"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "26541_9",
+      "answer": "cousin",
+      "candidates": [
+        "cousin",
+        "daughter",
+        "wife",
+        "landlord"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "26541_8",
+      "answer": "daughter",
+      "candidates": [
+        "landlord",
+        "wife",
+        "son",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1156_0",
+      "answer": "broker",
+      "candidates": [
+        "broker",
+        "wife",
+        "friend",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1156_2",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "friend",
+        "wife",
+        "broker"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3409_13",
+      "answer": "bishop",
+      "candidates": [
+        "candidate",
+        "friend",
+        "barchester",
+        "bishop"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3409_5",
+      "answer": "wife",
+      "candidates": [
+        "brother",
+        "wife",
+        "dean",
+        "friend"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3409_8",
+      "answer": "barchester",
+      "candidates": [
+        "brother",
+        "barchester",
+        "his",
+        "wife"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3409_7",
+      "answer": "friend",
+      "candidates": [
+        "candidate",
+        "friend",
+        "his",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "3409_12",
+      "answer": "candidate",
+      "candidates": [
+        "barchester",
+        "wife",
+        "candidate",
+        "member"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1023_2",
+      "answer": "owner",
+      "candidates": [
+        "clerk",
+        "owner",
+        "physician",
+        "wife"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1023_0",
+      "answer": "cousin",
+      "candidates": [
+        "owner",
+        "cousin",
+        "solicitor",
+        "ward"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1023_3",
+      "answer": "cousin",
+      "candidates": [
+        "wife",
+        "solicitor",
+        "cousin",
+        "owner"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1023_4",
+      "answer": "ward",
+      "candidates": [
+        "owner",
+        "wife",
+        "ward",
+        "cousin"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1023_15",
+      "answer": "physician",
+      "candidates": [
+        "owner",
+        "solicitor",
+        "ward",
+        "physician"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1023_17",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "ward",
+        "solicitor",
+        "cousin"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1023_8",
+      "answer": "solicitor",
+      "candidates": [
+        "solicitor",
+        "ward",
+        "owner",
+        "cousin"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1023_5",
+      "answer": "clerk",
+      "candidates": [
+        "clerk",
+        "solicitor",
+        "cousin",
+        "ward"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "19942_0",
+      "answer": "son",
+      "candidates": [
+        "servant",
+        "friend",
+        "daughter",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2554_0",
+      "answer": "student",
+      "candidates": [
+        "student",
+        "prostitute",
+        "friend",
+        "sister"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2554_3",
+      "answer": "sister",
+      "candidates": [
+        "student",
+        "inspector",
+        "friend",
+        "sister"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2554_1",
+      "answer": "prostitute",
+      "candidates": [
+        "student",
+        "prostitute",
+        "inspector",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2554_6",
+      "answer": "inspector",
+      "candidates": [
+        "student",
+        "prostitute",
+        "inspector",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2554_2",
+      "answer": "friend",
+      "candidates": [
+        "student",
+        "sister",
+        "inspector",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "13851_0",
+      "answer": "private",
+      "candidates": [
+        "private",
+        "son",
+        "manufacturer",
+        "secretary"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "13851_3",
+      "answer": "manufacturer",
+      "candidates": [
+        "sister",
+        "farmer",
+        "manufacturer",
+        "corporal"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "13851_2",
+      "answer": "sister",
+      "candidates": [
+        "son",
+        "sister",
+        "private",
+        "farmer"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "158_0",
+      "answer": "heiress",
+      "candidates": [
+        "governess",
+        "heiress",
+        "rector",
+        "yeoman"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "158_5",
+      "answer": "father",
+      "candidates": [
+        "protegee",
+        "niece",
+        "brother",
+        "father"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "158_11",
+      "answer": "gossip",
+      "candidates": [
+        "gossip",
+        "stepson",
+        "rector",
+        "protge*e"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "158_4",
+      "answer": "niece",
+      "candidates": [
+        "brother",
+        "father",
+        "niece",
+        "yeoman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "158_6",
+      "answer": "former",
+      "candidates": [
+        "father",
+        "former",
+        "gossip",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "158_8",
+      "answer": "stepson",
+      "candidates": [
+        "niece",
+        "protegee",
+        "stepson",
+        "former"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "158_7",
+      "answer": "rector",
+      "candidates": [
+        "yeoman",
+        "niece",
+        "rector",
+        "former"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1237_4",
+      "answer": "boarder",
+      "candidates": [
+        "cousin",
+        "student",
+        "boarder",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1237_1",
+      "answer": "student",
+      "candidates": [
+        "daughter",
+        "boarder",
+        "cousin",
+        "student"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "47935_1",
+      "answer": "son",
+      "candidates": [
+        "widow",
+        "mistress",
+        "son",
+        "friend"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "12280_2",
+      "answer": "daughter",
+      "candidates": [
+        "widow",
+        "head",
+        "daughter",
+        "slave"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "12280_0",
+      "answer": "american",
+      "candidates": [
+        "daughter",
+        "physician",
+        "american",
+        "widow"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "12280_5",
+      "answer": "slave",
+      "candidates": [
+        "head",
+        "american",
+        "slave",
+        "daughter"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "1400_6",
+      "answer": "orphan",
+      "candidates": [
+        "roommate",
+        "brother",
+        "ward",
+        "orphan"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1400_0",
+      "answer": "brother",
+      "candidates": [
+        "brother",
+        "ware",
+        "solicitor",
+        "orphan"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1400_1",
+      "answer": "recluse",
+      "candidates": [
+        "roommate",
+        "convict",
+        "brother",
+        "recluse"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1400_5",
+      "answer": "ware",
+      "candidates": [
+        "ward",
+        "roommate",
+        "orphan",
+        "ware"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1400_2",
+      "answer": "roommate",
+      "candidates": [
+        "ware",
+        "brother",
+        "recluse",
+        "roommate"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "1400_7",
+      "answer": "solicitor",
+      "candidates": [
+        "solicitor",
+        "villain",
+        "recluse",
+        "brother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "284_0",
+      "answer": "schemer",
+      "candidates": [
+        "hated",
+        "financier",
+        "socialite",
+        "schemer"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "284_5",
+      "answer": "wife",
+      "candidates": [
+        "wife",
+        "friend",
+        "hated",
+        "schemer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "284_3",
+      "answer": "hated",
+      "candidates": [
+        "wife",
+        "hated",
+        "schemer",
+        "husband"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "1606_9",
+      "answer": "wife",
+      "candidates": [
+        "earl",
+        "master",
+        "servant",
+        "wife"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2166_2",
+      "answer": "ruler",
+      "candidates": [
+        "chieftain",
+        "explorer",
+        "sorceress",
+        "ruler"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2413_0",
+      "answer": "wife",
+      "candidates": [
+        "doctor",
+        "lawyer",
+        "wife",
+        "landowner"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "39122_0",
+      "answer": "daughter",
+      "candidates": [
+        "patroness",
+        "landlady",
+        "dwarf",
+        "daughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "145_1",
+      "answer": "girl",
+      "candidates": [
+        "sister",
+        "doctor",
+        "girl",
+        "married"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "145_5",
+      "answer": "married",
+      "candidates": [
+        "husband",
+        "married",
+        "cousin",
+        "sister"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "145_11",
+      "answer": "sister",
+      "candidates": [
+        "married",
+        "doctor",
+        "sister",
+        "girl"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "730_0",
+      "answer": "waif",
+      "candidates": [
+        "daughter",
+        "waif",
+        "trainer",
+        "benefactor"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "730_1",
+      "answer": "official",
+      "candidates": [
+        "official",
+        "benefactor",
+        "daughter",
+        "brother"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3670_0",
+      "answer": "painter",
+      "candidates": [
+        "painter",
+        "ad.lnirer",
+        "actress",
+        "wife"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "26740_0",
+      "answer": "man",
+      "candidates": [
+        "tempter",
+        "artist",
+        "brother",
+        "man"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "26740_1",
+      "answer": "tempter",
+      "candidates": [
+        "actress",
+        "tempter",
+        "artist",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "6450_0",
+      "answer": "desperado",
+      "candidates": [
+        "lover",
+        "chief",
+        "frontiersman",
+        "desperado"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "6450_1",
+      "answer": "lover",
+      "candidates": [
+        "lover",
+        "frontiersman",
+        "desperado",
+        "naturalist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "7853_0",
+      "answer": "cadet",
+      "candidates": [
+        "outlaw",
+        "cadet",
+        "oudaw",
+        "uncle"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "7853_6",
+      "answer": "aunt",
+      "candidates": [
+        "duke",
+        "uncle",
+        "cadet",
+        "aunt"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "7853_12",
+      "answer": "duke",
+      "candidates": [
+        "uncle",
+        "bohemian",
+        "cadet",
+        "duke"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "122_3",
+      "answer": "reddleman",
+      "candidates": [
+        "reddleman",
+        "son",
+        "woman",
+        "proprietor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "122_5",
+      "answer": "guardian",
+      "candidates": [
+        "guardian",
+        "reddleman",
+        "son",
+        "betrothed"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "122_4",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "proprietor",
+        "reddleman",
+        "woman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "122_0",
+      "answer": "woman",
+      "candidates": [
+        "woman",
+        "reddleman",
+        "son",
+        "betrothed"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "24020_8",
+      "answer": "scholar",
+      "candidates": [
+        "scholar",
+        "girl",
+        "benefactor",
+        "adventurer"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "24020_0",
+      "answer": "daughter",
+      "candidates": [
+        "adventurer",
+        "daughter",
+        "girl",
+        "scholar"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "24020_1",
+      "answer": "adventurer",
+      "candidates": [
+        "girl",
+        "adventurer",
+        "scholar",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "24020_3",
+      "answer": "girl",
+      "candidates": [
+        "scholar",
+        "daughter",
+        "benefactor",
+        "girl"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "3155_0",
+      "answer": "ward",
+      "candidates": [
+        "ward",
+        "man",
+        "e",
+        "teacher"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "3155_2",
+      "answer": "servant",
+      "candidates": [
+        "man",
+        "e",
+        "servant",
+        "woman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "40813_2",
+      "answer": "clerk",
+      "candidates": [
+        "aunt",
+        "husband",
+        "russian",
+        "clerk"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "34791_0",
+      "answer": "daughter",
+      "candidates": [
+        "student",
+        "husband",
+        "daughter",
+        "love"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "34791_1",
+      "answer": "lover",
+      "candidates": [
+        "student",
+        "daughter",
+        "lover",
+        "love"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "51840_0",
+      "answer": "owner",
+      "candidates": [
+        "lawyer",
+        "woman",
+        "owner",
+        "uncle"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "51840_1",
+      "answer": "politician",
+      "candidates": [
+        "owner",
+        "uncle",
+        "politician",
+        "woman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "51840_2",
+      "answer": "girl",
+      "candidates": [
+        "girl",
+        "lawyer",
+        "owner",
+        "uncle"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "1948_0",
+      "answer": "friend",
+      "candidates": [
+        "narrator",
+        "grandfather",
+        "sister",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "6566_7",
+      "answer": "pole",
+      "candidates": [
+        "pole",
+        "friend",
+        "leader",
+        "patriot"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "6566_4",
+      "answer": "friend",
+      "candidates": [
+        "pole",
+        "grandfather",
+        "leader",
+        "friend"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "203_0",
+      "answer": "slave",
+      "candidates": [
+        "imp",
+        "daughter",
+        "negro",
+        "slave"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "203_7",
+      "answer": "planter",
+      "candidates": [
+        "planter",
+        "imp",
+        "negro",
+        "slave"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "203_12",
+      "answer": "slave",
+      "candidates": [
+        "negro",
+        "daughter",
+        "imp",
+        "slave"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "203_14",
+      "answer": "imp",
+      "candidates": [
+        "imp",
+        "slave",
+        "planter",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "599_8",
+      "answer": "adventuress",
+      "candidates": [
+        "adventuress",
+        "father",
+        "husband",
+        "friend"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "599_2",
+      "answer": "friend",
+      "candidates": [
+        "adventuress",
+        "friend",
+        "husband",
+        "brother"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "599_6",
+      "answer": "husband",
+      "candidates": [
+        "aunt",
+        "husband",
+        "friend",
+        "father"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "599_16",
+      "answer": "aunt",
+      "candidates": [
+        "aunt",
+        "brother",
+        "adventuress",
+        "friend"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "619_2",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "warden",
+        "counsel",
+        "newspaperman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2084_4",
+      "answer": "printer",
+      "candidates": [
+        "wife",
+        "printer",
+        "daughter",
+        "son"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2084_1",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "daughter",
+        "printer",
+        "wife"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2084_0",
+      "answer": "son",
+      "candidates": [
+        "daughter",
+        "printer",
+        "friend",
+        "son"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2084_3",
+      "answer": "wife",
+      "candidates": [
+        "son",
+        "friend",
+        "wife",
+        "printer"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2866_1",
+      "answer": "successor",
+      "candidates": [
+        "geraldine",
+        "gamekeeper",
+        "granddaughter",
+        "successor"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2866_4",
+      "answer": "granddaughter",
+      "candidates": [
+        "gamekeeper",
+        "demon",
+        "geraldine",
+        "granddaughter"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2866_5",
+      "answer": "gamekeeper",
+      "candidates": [
+        "geraldine",
+        "granddaughter",
+        "gamekeeper",
+        "chancellor"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "2866_2",
+      "answer": "demon",
+      "candidates": [
+        "member",
+        "son",
+        "demon",
+        "gamekeeper"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "583_3",
+      "answer": "niece",
+      "candidates": [
+        "niece",
+        "sister",
+        "owner",
+        "woman"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "583_1",
+      "answer": "sister",
+      "candidates": [
+        "suitor",
+        "sister",
+        "niece",
+        "owner"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "583_8",
+      "answer": "nobleman",
+      "candidates": [
+        "suitor",
+        "woman",
+        "owner",
+        "nobleman"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "471_3",
+      "answer": "keeper",
+      "candidates": [
+        "tenant",
+        "keeper",
+        "servant",
+        "e"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "471_0",
+      "answer": "daughter",
+      "candidates": [
+        "daughter",
+        "nobleman",
+        "e",
+        "servant"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "471_0",
+      "answer": "wife",
+      "candidates": [
+        "e",
+        "servant",
+        "keeper",
+        "wife"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "471_1",
+      "answer": "servant",
+      "candidates": [
+        "e",
+        "servant",
+        "tenant",
+        "wife"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2772_0",
+      "answer": "heir",
+      "candidates": [
+        "heir",
+        "lawyer",
+        "rector",
+        "guardian"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2772_1",
+      "answer": "father",
+      "candidates": [
+        "guardian",
+        "heir",
+        "husband",
+        "father"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2772_3",
+      "answer": "guardian",
+      "candidates": [
+        "rector",
+        "guardian",
+        "mother",
+        "husband"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2772_5",
+      "answer": "lawyer",
+      "candidates": [
+        "lawyer",
+        "father",
+        "guardian",
+        "separated"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "11052_3",
+      "answer": "woman",
+      "candidates": [
+        "husband",
+        "woman",
+        "son",
+        "lover"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "11052_2",
+      "answer": "husband",
+      "candidates": [
+        "husband",
+        "father",
+        "lover",
+        "son"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "11052_1",
+      "answer": "husband",
+      "candidates": [
+        "lover",
+        "husband",
+        "woman",
+        "son"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "11052_6",
+      "answer": "son",
+      "candidates": [
+        "lover",
+        "woman",
+        "son",
+        "father"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "11052_5",
+      "answer": "husband",
+      "candidates": [
+        "lover",
+        "father",
+        "husband",
+        "woman"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "10720_0",
+      "answer": "niece",
+      "candidates": [
+        "niece",
+        "mother",
+        "brother",
+        "doctor"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "10720_2",
+      "answer": "servant",
+      "candidates": [
+        "niece",
+        "mother",
+        "doctor",
+        "servant"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "24010_0",
+      "answer": "painter",
+      "candidates": [
+        "gallant",
+        "revolutionaries",
+        "painter",
+        "printseller"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "3783_0",
+      "answer": "son",
+      "candidates": [
+        "friends",
+        "heroine",
+        "son",
+        "e"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "18640_10",
+      "answer": "husband",
+      "candidates": [
+        "politician",
+        "wife",
+        "brother",
+        "husband"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "18640_3",
+      "answer": "brother",
+      "candidates": [
+        "brother",
+        "politician",
+        "widow",
+        "husband"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "18640_2",
+      "answer": "politician",
+      "candidates": [
+        "wife",
+        "brother",
+        "politician",
+        "widow"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "37039_0",
+      "answer": "writer",
+      "candidates": [
+        "writer",
+        "clerk",
+        "journalist",
+        "philosopher"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "37039_2",
+      "answer": "painter",
+      "candidates": [
+        "painter",
+        "journalist",
+        "actress",
+        "philosopher"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2641_4",
+      "answer": "englishman",
+      "candidates": [
+        "mother",
+        "englishman",
+        "cousin",
+        "son"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2641_4",
+      "answer": "son",
+      "candidates": [
+        "son",
+        "mother",
+        "englishwoman",
+        "novelist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2641_6",
+      "answer": "mother",
+      "candidates": [
+        "mother",
+        "brother",
+        "englishwoman",
+        "novelist"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "9051_3",
+      "answer": "mistress",
+      "candidates": [
+        "russian",
+        "mother",
+        "mistress",
+        "sister"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "char_id": "34021_4",
+      "answer": "sisters",
+      "candidates": [
+        "son",
+        "sisters",
+        "husband",
+        "daughter"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "char_id": "2870_2",
+      "answer": "sister",
+      "candidates": [
+        "doctor",
+        "suitor",
+        "daughter",
+        "sister"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2870_1",
+      "answer": "suitor",
+      "candidates": [
+        "suitor",
+        "sister",
+        "doctor",
+        "daughter"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "char_id": "2948_0",
+      "answer": "brother",
+      "candidates": [
+        "friend",
+        "sister",
+        "widow",
+        "brother"
+      ],
+      "answer_idx": 3
+    },
+    {
+      "char_id": "2948_1",
+      "answer": "friend",
+      "candidates": [
+        "mother",
+        "italian",
+        "friend",
+        "sister"
+      ],
+      "answer_idx": 2
+    }
+  ]
+}
