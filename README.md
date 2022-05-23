@@ -33,5 +33,7 @@ In each file, characters are represented by `(Project Gutenberg Book ID)_(Charac
 You can obtain full texts of original books from the Project Gutenberg website by using this ID, e.g., https://www.gutenberg.org/ebooks/113.
 You can find mappings from character ID to character names in `data/chr_map.json`.
 
-Note 1: As described in the paper, the QA task is extracted from https://github.com/deepmind/narrativeqa.
-Note 2: The datasets for Desc and SummaryCloze are not here because of copyright issues.
+
+## Notes
+- As described in the paper, the QA task is extracted from https://github.com/deepmind/narrativeqa.
+- The datasets for Desc and SummaryCloze are not here because of copyright issues.
